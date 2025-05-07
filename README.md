@@ -1,7 +1,6 @@
 ### <div align="center">I'm Hoang Van Hoang, Security researcher with a passion for tackling complex cybersecurity challenges.</div>  
   
 
-- 🔭 I’m currently working working in [Foundry InsecLab](https://github.com/foundry-InsecLab), my personal cybersecurity research organization.  
   
 
 - ⚡ Fun fact: "Creativity is intelligence having fun." — Albert Einstein  
